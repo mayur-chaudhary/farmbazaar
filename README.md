@@ -16,7 +16,7 @@ To run FarmBazaar locally on your machine, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/samarthshubham/cdac_farmbazaar.git
+   git clone https://github.com/iam-mayur/cdac_farmbazaar.git
    ```
 
 2. **Set Up Backend**:
