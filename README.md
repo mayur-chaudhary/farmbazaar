@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FarmBazaar
 
 FarmBazaar is an online platform that facilitates the direct sale of farm products from farmers to consumers. Admins can assign products to farmers, who can then list and sell them on the platform. Delivery partners handle order deliveries, ensuring timely and efficient distribution of products to consumers.
@@ -114,3 +115,5 @@ To run FarmBazaar locally on your machine, follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+# cdac_farmbazaar
+
