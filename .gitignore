@@ -1,0 +1,49 @@
+# Spring Boot specific files and directories
+bin/
+target/
+*.log
+
+# Maven specific files
+mvn-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Eclipse specific files
+.settings/
+.classpath
+.project
+factorypath
+.springBeans
+
+# React specific files and directories
+/node_modules
+/build
+
+# Visual Studio Code specific files
+.vscode/
+
+# IDE and editor specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+*.class
+*.jar
+.mvn/
+.settings/
+.metadata/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+.bak
+.docx
+
+# Spring Boot application properties files
+src/main/resources/application.properties
+src/main/resources/application.yml
+
+# Spring Boot logs directory
+logs/
+
+# Environment-specific files
+.env
