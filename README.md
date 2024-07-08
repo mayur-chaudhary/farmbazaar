@@ -229,7 +229,7 @@ To run FarmBazaar locally on your machine, follow these steps:
 ## Contributors
 
 - Shubham Samarth ([@samarthshubham](https://github.com/samarthshubham))
-- Mayur Chaudhary ([@iam-mayur](https://github.com/iam-mayur))
+- Mayur Chaudhary ([@mayur-chaudhary](https://github.com/mayur-chaudhary))
 - Gaurav Gaikwad ([@gauravgkd](https://github.com/gauravgkd))  
 - Nishant Mahajan ([@NISHANT8800](https://github.com/NISHANT8800))
 
